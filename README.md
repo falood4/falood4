@@ -11,29 +11,38 @@ Currently, I'm diving deep into the exciting world of AI, Python and Deep Learni
 
 <h3>🛠️ Tech Stack & Expertise</h3>
 
-💻 Front-End Development
-Languages: HTML5, CSS3, JavaScript
-Frameworks/Libraries: React.js, Flutter (for mobile/cross-platform)
-Build Tools: Webpack, Vite, VS Code
+💻Web Development
+Languages: HTML5, CSS3, JavaScript, Python
+
+Frameworks/Libraries: React.js, Node.js, Flask
+
+📱Mobile Development: Flutter (for mobile/cross-platform), Dart
+
+Build Tools: Vite, VS Code
+
 Version Control: Git, GitHub
 
-🎨 UI/UX Design
+
+<h3>🎨 UI/UX Design</h3>
+
 Tools: Figma, Canva, Photoshop
 
-🧠 Deep Learning & Python
+<h3>🧠 Deep Learning & Python<h3></h3>
+
 Languages: Python
-Libraries: Pandas, Numpy, Tkinter, pyTorch, cv2
+
+Libraries: Pandas, Matplotlib, Numpy, Tkinter
 
 Concepts: Learning Models, Computer Vision, GUI, Natural Language Processing (NLP) - currently exploring
 
-🌐 Connect With Me
+<h3>🌐 Connect With Me</h3>
 Let's connect and build something amazing!
 
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kurien-nakkara/)
 
 Email: kuriennakkara0@gmail.com
 
-✨ GitHub Stats
+<h3>✨ GitHub Stats</h3>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=falood4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Your GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=falood4&theme=vue-dark&hide_border=true" />
