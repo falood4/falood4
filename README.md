@@ -35,7 +35,7 @@ Email: kuriennakkara0@gmail.com
 
 ✨ GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Your GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="Your GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+![falood4's Stats](https://github-readme-stats.vercel.app/api?username=falood4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![falood4's Streak](https://github-readme-streak-stats.herokuapp.com/?user=falood4&theme=vue-dark&hide_border=true)
+![falood4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falood4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
