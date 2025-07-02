@@ -18,7 +18,7 @@ Frameworks/Libraries: React.js, Node.js, Flask
 
 📱Mobile Development: Flutter (for mobile/cross-platform), Dart
 
-Build Tools: Vite, VS Code
+Build Tools: Vite, VS Code, Android Studio
 
 Version Control: Git, GitHub
 
@@ -33,7 +33,7 @@ Languages: Python
 
 Libraries: Pandas, Matplotlib, Numpy, Tkinter
 
-Concepts: Learning Models, Computer Vision, GUI, Natural Language Processing (NLP) - currently exploring
+Concepts exploring: Learning Models, Computer Vision, GUI, Natural Language Processing (NLP)
 
 <h3>🌐 Connect With Me</h3>
 Let's connect and build something amazing!
