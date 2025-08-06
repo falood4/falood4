@@ -12,26 +12,40 @@ Currently, I'm diving deep into the exciting world of AI, Python and Deep Learni
 <h3>🛠️ Tech Stack & Expertise</h3>
 
 💻Web Development
-Languages: HTML5, CSS3, JavaScript, Python
+Languages: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-Frameworks/Libraries: React.js, Node.js, Flask
+Frameworks/Libraries: 
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 
-📱Mobile Development: Flutter (for mobile/cross-platform), Dart
+📱Mobile Development:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-Build Tools: Vite, VS Code, Android Studio
+Build Tools: ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-Version Control: Git, GitHub
-
+Version Control: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <h3>🎨 UI/UX Design</h3>
 
-Tools: Figma, Canva, Photoshop
+Tools: 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva) 
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-A-001e36?logo=adobephotoshop&logoColor=fff&style=for-the-badge&colorA=001e36&colorB=31a8ff)
 
 <h3>🧠 Deep Learning & Python<h3></h3>
 
-Languages: Python
+Languages: 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-Libraries: Pandas, Matplotlib, Numpy, Tkinter
+Libraries: ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 Concepts exploring: Learning Models, Computer Vision, GUI, Natural Language Processing (NLP)
 
