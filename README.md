@@ -47,7 +47,7 @@ Libraries: ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-ba
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
-Concepts exploring: Learning Models, Computer Vision, GUI, Natural Language Processing (NLP)
+Concepts exploring: Full-Stack Development, Node.js, Computer Vision, GUI, Machine Learning, Natural Language Processing (NLP)
 
 <h3>🌐 Connect With Me</h3>
 
