@@ -26,7 +26,7 @@ Frameworks/Libraries:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-Build Tools: ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+Build Tools: ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 Version Control: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -50,7 +50,6 @@ Libraries: ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-ba
 Concepts exploring: Learning Models, Computer Vision, GUI, Natural Language Processing (NLP)
 
 <h3>🌐 Connect With Me</h3>
-Let's connect and build something amazing!
 
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kurien-nakkara/)
 
