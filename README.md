@@ -1,5 +1,5 @@
 <div align="center"><h1> Kurien S Nakkara </h1>
-  <h3>Web + Mobile programmer & UI/UX Designer | AI and ML Explorer 🚀</h3></div>
+  <h3>Web + Mobile programmer | AI and ML Explorer 🚀</h3></div>
 <div align="center">
 </div>
  <br>
