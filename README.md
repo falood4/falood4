@@ -51,7 +51,7 @@ Concepts exploring: Full-Stack Development, Node.js, Computer Vision, GUI, Machi
 
 <h3>🌐 Connect With Me</h3>
 
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kurien-nakkara/)
+LinkedIn: [Kurien Nakkara](https://www.linkedin.com/in/kurien-nakkara/)
 
 Email: kuriennakkara0@gmail.com
 
